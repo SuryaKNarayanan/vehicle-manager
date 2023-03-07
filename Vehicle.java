@@ -4,5 +4,8 @@ public class Vehicle{
 		PetrolEngine pE = new PetrolEngine();
 		pE.start();
 		
+		DieselEngine dE = new DieselEngine();
+		dE.start();
+		
 	}
 }
