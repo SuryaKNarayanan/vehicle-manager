@@ -1,3 +1,3 @@
-VEHICLE-MANAGER *_* This is for practice
+# VEHICLE-MANAGER
 This is a vehicle manager project for git demo
  
