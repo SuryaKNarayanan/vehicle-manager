@@ -12,6 +12,8 @@ public class Vehicle{
 		dE.stop();
 		
 		ElectricEngine eE = new ElectricEngine();
+		eE.start();
+		eE.stop();
 		
 		HydrogenEngine hE = new HydrogenEngine();
 		hE.start();

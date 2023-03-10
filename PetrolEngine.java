@@ -1,6 +1,8 @@
 public class PetrolEngine{
-	
-	public static void main(String[] args) {		
-		System.out.println("Petrol Engine Stopped");
+	public void start(){
+		System.out.println("Petrol Engine Started");
 	}
+		public void stop() {		
+			System.out.println("Petrol Engine Stopped");
+		}
 }

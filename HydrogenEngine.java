@@ -1,9 +1,8 @@
 public class HydrogenEngine{
-	public static void main (String[] args) {
+	public void start(){
 		System.out.println("Hydrogen Engine Started");
 	}
-	
-	public void stop() {
-		System.out.println("Hydrogen Engine Stopped");
-	}
+		public void stop() {		
+			System.out.println("Hydrogen Engine Stopped");
+		}
 }

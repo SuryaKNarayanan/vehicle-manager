@@ -1,6 +1,8 @@
 public class DieselEngine{
-	
-	public static void main(String[] args) {		
+	public void start(){
+	System.out.println("Diesel Engine Started");
+}
+	public void stop() {		
 		System.out.println("Diesel Engine Stopped");
 	}
 }

@@ -1,5 +1,5 @@
 public class ElectricEngine{
-	public class void main(String[] args) {
+	public void start(){
 		System.out.println("Electric Engine Started");
 	}
 	
